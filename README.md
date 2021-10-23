@@ -1,2 +1,2 @@
 # test
-c++
+cách hoạt động của github
