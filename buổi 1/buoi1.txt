@@ -2,3 +2,4 @@ buổi 1
 cin cout 
 dữ liệu cơ bản 
 ...
+đéo học nữa ok
